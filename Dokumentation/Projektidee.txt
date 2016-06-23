@@ -26,3 +26,9 @@ Formulieren Sie bitte für das folgende Brettspiel eine Projektbeschreibung wie 
 Sie haben jetzt also die Datei Projektidee.txt erstellt und im richtigen Ordner gespeichert.
 
 Aber wo ist die Projektbeschreibung?
+
+===================================
+=== Feedback Alpers, 2016-06-23 ===
+===================================
+
+Leider keine Änderungen seit letztem Feedback. Bitte beachten Sie, dass ich Ihr Projekt entsprechend des aktuellen Stands bewerten muss, wenn Sie weiterhin nicht am Projekt arbeiten. Um das zu verdeutlichen: Arbeit am Projekt bedeutet, dass Sie regelmäßig und in ausreichendem Umfang, also mindestens einmal pro Woche mehrere Stunden das Projekt erweitern und überarbeiten. Das gelegentliche Hinzufügen einzelner Sätze ist keine Projektarbeit.
